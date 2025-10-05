@@ -14,6 +14,9 @@ Este é um projeto pessoal desenvolvido para testar e aplicar conhecimentos em *
 
 > 📁 As imagens devem ser colocadas em uma pasta `/screenshots/` no repositório.
 
+### 🧱 Arquitetura (Diagrama)
+![Arquitetura do Projeto](./arquitetura_do_projeto.jpg)
+
 ---
 
 ## ✨ Funcionalidades
